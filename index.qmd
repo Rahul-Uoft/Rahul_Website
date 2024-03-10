@@ -1,0 +1,14 @@
+---
+title: "Rahul Gopeesingh"
+---
+
+My name is Rahul Gopeesingh and I'm a 3rd year student at the University of Toronto. I'm currently studying the mathematical applications of economics and finance. I've always had a love for mathematics however in my opinion economics is one of the most powerful tools that one can use to think about the world. My interest in economics actually developed because I mistakenly started watching some online lectures for game theory thinking it was combinatorial game theory(math) 
+
+
+I spent a lot of time training for mathematical contests and I have a passion for teaching math. I think everyone inherently enjoys solving problems, but hate being confused. Hence a lot of people think that they'r not a 'math person.' I really enjoy teaching my peers and especially look forward to the "Aha!" moment when they really get it. 
+
+
+In my free time I really enjoy playing football(even though I'm not very good at it.) There is so much beauty to be found in a sport that unites the entire world despite its simplicity. I also enjoy a casual game of chess.  
+```{r}
+1 + 1
+```
